@@ -42,5 +42,5 @@ This project leverages a dataset from an audiobook mobile application to build p
 
 
 ## Acknowledgements
-- [Dataset]([kaggle.com](https://www.kaggle.com/datasets/snehangsude/audible-dataset))
+- [Dataset](https://www.kaggle.com/datasets/snehangsude/audible-dataset))
 
